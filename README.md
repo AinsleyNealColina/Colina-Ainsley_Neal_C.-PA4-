@@ -1,7 +1,7 @@
 # Colina-Ainsley_Neal_C.-PA4-
 This project analyzes student performance data from an Excel file containing information on students' grades, tracks, and demographics. The main objectives are to calculate average grades, filter specific student groups, and visualize the results using various plots.
 
-Data Description
+  Data Description
 The dataset contains the following columns:
 
 Name: Name of the student
@@ -12,7 +12,7 @@ Math: Math grade
 Electronics: Electronics grade
 GEAS: General Education and Skills grade
 
-Visualizations
+  Visualizations
 The analysis includes various visualizations to understand the performance based on different factors:
 
 Average Grade by Track: A bar plot showing average grades across different academic tracks.
