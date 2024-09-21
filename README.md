@@ -1,6 +1,6 @@
 # Colina-Ainsley_Neal_C.-PA4-
 This project analyzes student performance data from an Excel file containing information on students' grades, tracks, and demographics. The main objectives are to calculate average grades, filter specific student groups, and visualize the results using various plots.
-
+ 
   Data Description
 The dataset contains the following columns:
 
