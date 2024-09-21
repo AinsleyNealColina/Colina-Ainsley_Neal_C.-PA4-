@@ -4,6 +4,7 @@ This project analyzes student performance data from an Excel file containing inf
   Data Description
 The dataset contains the following columns:
 
+
 Name: Name of the student
 
 Gender: Gender of the student
@@ -18,8 +19,10 @@ Electronics: Electronics grade
 
 GEAS: General Education and Skills grade
 
+
   Visualizations
 The analysis includes various visualizations to understand the performance based on different factors:
+
 
 Average Grade by Track: A bar plot showing average grades across different academic tracks.
 
